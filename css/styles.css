@@ -1,3 +1,20 @@
+:root {
+  --primaryiris-color: #4d5ae5;
+  --pressedocean-color: #404bbf;
+  --darknavy-color: #2e2f42;
+  --successgreen-color: #31d0aa;
+  --textslate-color: #434455;
+  --subtlelight-color: #8e8f99;
+  --accentcorn-color: #e7e9fc;
+  --lightcloud-color: #f4f4fd;
+  --modalnavy-color: #2e2f4266;
+  --herogray-color: #2e2f42b2;
+  --whitewhite-color: #ffffff;
+  --modaldairy-color: #2e2f4266;
+}
+
 body {
-  font-family: "Roboto", "Raleway", sans-serif;
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #ffffff;
 }
