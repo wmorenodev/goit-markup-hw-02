@@ -10,7 +10,7 @@
   --modalnavy-color: #2e2f4266;
   --herogray-color: #2e2f42b2;
   --whitewhite-color: #ffffff;
-  --modaldairy-color: #2e2f4266;
+  --modaldairy-color: #fcfcfc;
 }
 
 body {
@@ -20,6 +20,17 @@ body {
 }
 .link {
   text-decoration: none;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--darknavy-color);
+}
+.link:hover {
+  color: var(--pressedocean-color);
+}
+
+.link:focus {
+  color: var(--pressedocean-color);
 }
 .list {
   list-style: none;
