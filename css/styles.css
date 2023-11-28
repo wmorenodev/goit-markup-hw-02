@@ -112,3 +112,8 @@ body {
 .foots {
   background-color: var(--darknavy-color);
 }
+.footerpar {
+  line-height: 1.5;
+  color: var(--lightcloud-color);
+  letter-spacing: 0.02em;
+}
