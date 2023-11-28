@@ -47,9 +47,9 @@ body {
 .logospan {
   color: var(--darknavy-color);
 }
-.a-dress {
+.adress {
   font-style: normal;
 }
-.a-dress a {
+.adress a {
   color: var(--textslate-color);
 }
