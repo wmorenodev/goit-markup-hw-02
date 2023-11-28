@@ -56,7 +56,7 @@ body {
 .sectionone {
   background-color: var(--darknavy-color);
 }
-.headerone {
+.headerprimary {
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
