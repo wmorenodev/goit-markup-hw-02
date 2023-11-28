@@ -91,3 +91,11 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+.headerthreelist {
+  color: var(--darknavy-color);
+  text-align: center;
+
+  font-size: 36px;
+  line-height: 1.11;
+  text-transform: capitalize;
+}
