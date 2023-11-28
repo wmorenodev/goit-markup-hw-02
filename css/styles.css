@@ -47,6 +47,9 @@ body {
 .logospan {
   color: var(--darknavy-color);
 }
+.logofspan {
+  color: var(--lightcloud-color);
+}
 .a-dress {
   font-style: normal;
 }
@@ -105,4 +108,7 @@ body {
 }
 .teamitem {
   background-color: var(--whitewhite-color);
+}
+.foots {
+  background-color: var(--darknavy-color);
 }
