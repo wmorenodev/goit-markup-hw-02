@@ -80,7 +80,7 @@ body {
 .orderbutton:focus {
   background-color: var(--pressedocean-color);
 }
-.headertwolist {
+.headertertialy {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -94,7 +94,7 @@ body {
 .headersecondary {
   color: var(--darknavy-color);
   text-align: center;
-
+  letter-spacing: 0.02em;
   font-size: 36px;
   line-height: 1.11;
   text-transform: capitalize;
