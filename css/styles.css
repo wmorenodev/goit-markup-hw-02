@@ -117,3 +117,24 @@ body {
   color: var(--lightcloud-color);
   letter-spacing: 0.02em;
 }
+.filterbutton {
+  color: var(--primaryiris-color);
+  background-color: var(--lightcloud-color);
+  text-align: center;
+
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+}
+.filterbutton:hover {
+  color: var(--whitewhite-color);
+  background-color: var(--pressedocean-color);
+}
+.filterbutton:focus {
+  color: var(--whitewhite-color);
+  background-color: var(--pressedocean-color);
+}
