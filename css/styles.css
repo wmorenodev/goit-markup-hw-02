@@ -18,6 +18,9 @@ body {
   color: #434455;
   background-color: #ffffff;
 }
+.nodisplay {
+  /* display: none; */
+}
 .link {
   text-decoration: none;
   font-weight: 500;
@@ -55,6 +58,7 @@ body {
 }
 .a-dress a {
   color: var(--textslate-color);
+  font-weight: 400;
 }
 .sectionone {
   background-color: var(--darknavy-color);
@@ -114,9 +118,12 @@ body {
   background-color: var(--darknavy-color);
 }
 .footerpar {
+  font-family: "Roboto";
   line-height: 1.5;
   color: var(--lightcloud-color);
   letter-spacing: 0.02em;
+  font-weight: 400;
+  text-transform: none;
 }
 .filterbutton {
   color: var(--primaryiris-color);
@@ -143,4 +150,7 @@ body {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
+}
+.filterpar {
+  font-weight: 400;
 }
